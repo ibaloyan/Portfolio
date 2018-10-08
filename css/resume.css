@@ -12,7 +12,23 @@ body {
   color: black;
 }
 
-/* <body style="background-image:url(bgimage.jpg)"> */
+body, html {
+  height: 100%;
+}
+
+.bg { 
+  /* The image used */
+  background-image: url("img/clouds1.jpg");
+
+  /* Full height */
+  height: 100%; 
+
+  /* Center and scale the image nicely */
+  background-position: center;
+  background-repeat: repeat;
+  background-size: cover;
+}
+
 
 @media (min-width: 992px) {
   body {
@@ -49,6 +65,12 @@ h3 {
 p.lead {
   font-size: 1.15rem;
   font-weight: 400;
+}
+
+p {
+  font-size: 1.20rem;
+  font-weight: 600;
+  color:darkslategrey;
 }
 
 .subheading {
