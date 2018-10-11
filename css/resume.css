@@ -75,7 +75,8 @@ p {
   font-size: 1.20rem;
   font-weight: 600;
   /* color:darkslategrey; */
-  color:lightgrey;
+  /* color:lightgrey; */
+  color:darkgrey;
 }
 
 .subheading {
