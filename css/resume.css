@@ -54,9 +54,8 @@ h6 {
   font-weight: 700;
   text-transform: uppercase;
   /* color:darkslategray; #343a40; */
-  /* color:darkgray; */
-  color: #00004d;
-  /* color:darkslateblue; */
+  color:darkgray;
+  /* color: #00004d; */
 }
 
 h1 {
