@@ -73,11 +73,26 @@ p.lead {
 }
 
 p {
-  font-size: 1.20rem;
-  font-weight: 600;
+  font-size: 1.10rem;
+  font-weight: 500;
   /* color:darkslategrey; */
   /* color:lightgrey; */
-  color:darkgrey;
+  /* color:darkgrey; */
+  color:#00004d;
+}
+
+p2 {
+  font-size: 0.8rem;
+  font-weight: 400;
+  color:#00004d;
+  /* color:lightgrey; */
+  /* color:darkgrey; */
+}
+
+p3 {
+  font-size: 1.5rem;
+  font-weight: 600;
+  color:darkred;
 }
 
 .subheading {
@@ -85,6 +100,13 @@ p {
   font-weight: 700;
   font-family: 'Saira Extra Condensed', -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif, 'Apple Color Emoji', 'Segoe UI Emoji', 'Segoe UI Symbol', 'Noto Color Emoji';
   font-size: 1.5rem;
+}
+
+.subheading2 {
+  text-transform: uppercase;
+  font-weight: 500;
+  font-family: 'Saira Extra Condensed', -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif, 'Apple Color Emoji', 'Segoe UI Emoji', 'Segoe UI Symbol', 'Noto Color Emoji';
+  font-size: 1rem;
 }
 
 .social-icons a {
@@ -185,7 +207,7 @@ p {
 section.resume-section {
   padding-top: 5rem !important;
   padding-bottom: 5rem !important;
-  max-width: 75rem;
+  max-width: 130rem;
 }
 
 section.resume-section .resume-item .resume-date {
