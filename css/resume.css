@@ -99,6 +99,14 @@ p3 {
   color:darkred;
 }
 
+p5 {
+  font-size: 1.1rem;
+  font-weight: 600;
+  color:lightgrey;
+  /* color:darkgrey; */
+  /* color:#00004d; */
+}
+
 .subheading {
   text-transform: uppercase;
   font-weight: 700;
